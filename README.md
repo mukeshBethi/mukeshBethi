@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mukeshBethi
 - 👀 I’m interested in Coding,Photography,video editing
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Java stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mukeshreddy343@gmail.com
 
